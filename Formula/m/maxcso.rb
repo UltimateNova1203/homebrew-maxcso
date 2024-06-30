@@ -1,4 +1,4 @@
-class maxcso < Formula
+class MaxCSO < Formula
   include Language::Python::Virtualenv
 
   desc "Fast cso compressor"
