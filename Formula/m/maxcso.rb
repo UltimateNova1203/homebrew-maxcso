@@ -1,5 +1,4 @@
 class Maxcso < Formula
-  include Language::Python::Virtualenv
 
   desc "Fast cso compressor"
   homepage "https://github.com/unknownbrackets/maxcso"
